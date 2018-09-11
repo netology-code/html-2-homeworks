@@ -1,10 +1,10 @@
-# 1.1 Введение в HTML и CSS
+# 1.1 Введение в вёрстку
 
 Необходимо выполнить и отправить на проверку следующие задачи:
 
-1. [Верстка блока с кратким описанием языка HTML](https://github.com/netology-code/html-2-homeworks/tree/develop/lection-1-1/block)
-2. [Стилизация краткого описания статьи для блога «Нетологии»](https://github.com/netology-code/html-2-homeworks/tree/develop/lection-1-1/article-description)
-3. [Виджет новой статьи в блоге «Нетологии»](https://github.com/netology-code/html-2-homeworks/tree/develop/lection-1-1/widget)
+1. [Верстка блока с кратким описанием языка HTML](https://github.com/netology-code/html-2-homeworks/tree/develop/introduction-html-css/block)
+2. [Стилизация краткого описания статьи для блога «Нетологии»](https://github.com/netology-code/html-2-homeworks/tree/develop/introduction-html-css/article-description)
+3. [Виджет новой статьи в блоге «Нетологии»](https://github.com/netology-code/html-2-homeworks/tree/develop/introduction-html-css/widget)
 
 Все задачи обязательны к выполнению. Присылать на проверку можно только когда готовы все три задачи.
 
