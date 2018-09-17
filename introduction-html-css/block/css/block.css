@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	font-family: arial, sans-serif;
+	font-size: 16px;
+}
+
+.content {
+	width: 660px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 20px;
+}
+
+p {
+	line-height: 1.5;
+}
+
+.term {
+	font-weight: 700;
+}
+
+.hint {
+	font-style: italic;
+}
+
+a {
+	color: #349bdf;
+	text-decoration: none;
+}
