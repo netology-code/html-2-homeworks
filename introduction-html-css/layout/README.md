@@ -32,4 +32,4 @@
 Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/aaYoKM](https://codepen.io/Netology/pen/aaYoKM?editors=1100#0). Внесите изменения во вкладке HTML пена. CSS менять не надо.
 
 ##### Внимание: Общую структуру документа создавать не надо, вкладка Codepen «HTML» работает, как тег `<body>` 
-См. [Инструкцию по работе с Codepen](https://netology-university.bitbucket.io/guides/wm/codepen-guide/)
+см. [инструкцию по работе с Codepen](https://netology-university.bitbucket.io/guides/wm/codepen-guide/)

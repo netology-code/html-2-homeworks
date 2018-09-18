@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  -webkit-overflow-scrolling: touch;
+  overflow-y: scroll;
+}
+
+.content {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 20px;
+}
+
+p {
+  line-height: 1.5;
+}
