@@ -34,5 +34,5 @@
 
 Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/RYMbva](https://codepen.io/Netology/pen/RYMbva?editors=1100#0). Вносите изменения во вкладках HTML и CSS.
 
-##### Внимание: Общую структуру документа создавать не надо, вкладка Codepen «HTML» работает, как тег `body` См. [Инструкцию по работе с Codepen](https://netology-university.bitbucket.io/guides/wm/codepen-guide/)##### Внимание: Общую структуру документа создавать не надо, вкладка Codepen «HTML» работает, как тег `<body>`
-                                                                                                                                                                                                                    см. [инструкцию по работе с Codepen](https://netology-university.bitbucket.io/guides/wm/codepen-guide/)
+##### Внимание: Общую структуру документа создавать не надо, вкладка Codepen «HTML» работает, как тег `<body>`
+см. [инструкцию по работе с Codepen](https://netology-university.bitbucket.io/guides/wm/codepen-guide/)
