@@ -4,11 +4,11 @@
 
 Поздравляю! Вы присоединились к команде верстки сайта «Википедии», и для вас есть первая задача. Нужно разметить текст блока с кратким описанием языка HTML.  Сейчас блок выглядит так:
 
-![](https://netology-code.github.io/html-2-homeworks/introduction-html-css/sources/lection-1-1-task-1-block-before.png)
+![](https://netology-code.github.io/html-2-homeworks/sources/lection-1-1-task-1-block-before.png)
 
 Вам нужно добиться следующего результата:
 
-![](https://netology-code.github.io/html-2-homeworks/introduction-html-css/sources/lection-1-1-task-1-block-after.png)
+![](https://netology-code.github.io/html-2-homeworks/sources/lection-1-1-task-1-block-after.png)
 
 ## Процесс реализации
 
@@ -21,7 +21,7 @@
 
 Правильный результат должен иметь вид:
 
-![](https://netology-code.github.io/html-2-homeworks/introduction-html-css/sources/lection-1-1-task-1-block-after.png)
+![](https://netology-code.github.io/html-2-homeworks/sources/lection-1-1-task-1-block-after.png)
 
 ---
 
