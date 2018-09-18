@@ -16,7 +16,7 @@
 2. Оберните текст «Секреты JavaScript ниндзя. Джон Резиг, Беэр Бибо, Иосип Марас» тегом `<h1>`
 3. Оберните ранее созданные элементы тегом `<div>` с атрибутом `class` и значением `card-content`
 4. Перед элементом `<div>` с атрибутом `class` и значением `card-content` добавьте тег `<img>`
-5. Тегу `<img>` добавьте атрибут `src` со значением [https://netology-code.github.io/html-2-homeworks/introduction-html-css/widget/img/Секреты%20JavaScript%20ниндзя.jpg](https://netology-code.github.io/html-2-homeworks/introduction-html-css/widget/img/Секреты%20JavaScript%20ниндзя.jpg)
+5. Тегу `<img>` добавьте атрибут `src` со значением [https://netology-code.github.io/html-2-homeworks/introduction-html-css/widget/img/Секреты-JavaScript-ниндзя.jpg](https://netology-code.github.io/html-2-homeworks/introduction-html-css/widget/img/Секреты-JavaScript-ниндзя.jpg)
 6. Тегу `<img>` добавьте атрибут `class` со значением `card-img`
 7. Тегу `<img>` добавьте атрибут `alt` со значением «Обложка книги Cекреты JavaScript»
 8. Все текущие теги оберните тегом `<div>` с атрибутом `class` и значением `card`
