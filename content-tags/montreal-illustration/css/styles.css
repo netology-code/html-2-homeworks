@@ -1,0 +1,21 @@
+body {
+  font-family: arial, sans-serif;
+  font-size: 16px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+figure {
+  text-align: center;
+  float: left;
+  padding: 20px;
+  border: 4px solid #ababab;
+  margin: 20px 40px 20px 0;
+}
+
+figcaption {
+  margin-top: 10px;
+  font-size: 13px;
+}
