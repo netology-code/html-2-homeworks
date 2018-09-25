@@ -2,9 +2,9 @@
 
 Необходимо выполнить и отправить на проверку следующие задачи:
 
-1. Задание №1
-2. Последние новости
-3. Раздел услуг веб-студии
+1. [Задание №1](https://github.com/netology-code/html-2-homeworks/tree/develop/content-structure-tags/markup)
+2. [Последние новости](https://github.com/netology-code/html-2-homeworks/tree/develop/content-structure-tags/latest-news)
+3. [Раздел услуг веб-студии](https://github.com/netology-code/html-2-homeworks/tree/develop/content-structure-tags/web-studio)
 
 Все задачи обязательны к выполнению. Присылать на проверку можно только когда готовы все три задачи.
 
