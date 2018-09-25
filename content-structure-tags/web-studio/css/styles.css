@@ -1,0 +1,65 @@
+
+body {
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Open Sans, Ubuntu, Fira Sans, Helvetica Neue, sans-serif;
+	font-size: 15px;
+	margin: 0;
+}
+
+p, h3 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+p {
+	line-height: 1.675;
+}
+
+.services {
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 40px;
+}
+
+.card {
+	background-image: url("https://stas-melnikov.ru/n-html/creative-idea.svg");
+	background-repeat: no-repeat;
+	background-size: 96px;
+	background-position: center 30px;
+
+	border-left: 1px solid transparent;
+	border-right: 1px solid transparent;
+	border-bottom: 1px solid rgba(179, 184, 236, 0.5);
+}
+
+.card:nth-child(2) { 
+	background-image: url("https://stas-melnikov.ru/n-html/coding2.svg");
+}
+
+.card:nth-child(3) { 
+	background-image: url("https://stas-melnikov.ru/n-html/coding.svg");
+}
+
+.card:nth-child(-n+3){
+	border-top: 1px solid rgba(179, 184, 236, 0.5);	
+}
+
+.card:nth-child(3n+1),
+.card:nth-child(3n+3){
+	border-left-color: rgba(179, 184, 236, 0.5);
+	border-right-color: rgba(179, 184, 236, 0.5);
+}
+
+.card:nth-child(even) {
+	background-color: rgba(179, 184, 236, 0.2);
+}
+
+.card-name {
+	font-size: 22px;
+}
+
+.card-content {
+	margin-top: 30px;
+}
