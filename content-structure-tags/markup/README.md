@@ -1,4 +1,4 @@
-# Задание № 1. 
+# История Монреаля
 
 ## Описание
 
@@ -18,7 +18,7 @@
 
 #### В песочнице CodePen
 
-Перед началом работы сделайте форк пена на [https://codepen.io/melnik909/pen/XPggbV](https://codepen.io/melnik909/pen/XPggbV). Вносите изменения во вкладках HTML и CSS.
+Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/pOMVeK](https://codepen.io/Netology/pen/pOMVeK?editors=1000). Вносите изменения во вкладке HTML.
 
 ##### Внимание: Общую структуру документа создавать не надо, вкладка Codepen «HTML» работает, как тег `<body>`
 см. [инструкцию по работе с Codepen](https://netology-university.bitbucket.io/guides/wm/codepen-guide/)
