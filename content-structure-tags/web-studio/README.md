@@ -2,6 +2,15 @@
 
 ## Описание
 
+Ваш друг решил открыть свою веб-студию. Для того, чтобы были клиенты, веб-студии нужен свой сайт. К сожалению, другу некогда этим заниматься. Он сверстал структуру страницы, а добавить стили попросил вас. 
+Сейчас блок услуг веб-студии выглядит так: 
+
+![](https://raw.githubusercontent.com/netology-code/html-2-homeworks/master/sources/2-1/web-studio-before.png)
+
+А надо добиться такого результата: 
+
+![](https://raw.githubusercontent.com/netology-code/html-2-homeworks/master/sources/2-1/web-studio-after.png)
+
 ## Процесс реализации
 
 1. Установите ширину контейнера `.services` 1260px
