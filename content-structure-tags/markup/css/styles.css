@@ -1,0 +1,94 @@
+body {
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Open Sans, Ubuntu, Fira Sans, Helvetica Neue, sans-serif;
+	font-size: 16px;
+	margin: 0;
+	background-color: #eaeaea;
+}
+
+h1, h2, h3 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+p {
+	margin-top: 0;
+	margin-bottom: 25px;
+}
+
+p:last-child {
+	margin-bottom: 0;
+}
+
+.page {
+	box-sizing: border-box;
+	width: 960px;
+  padding: 20px 10px;
+
+  margin-left: auto;
+  margin-right: auto;	
+}
+
+.content {
+	box-sizing: border-box;
+  padding: 30px 25px;	
+	
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+}
+
+.content-title {
+	font-size: 28px;
+	margin-bottom: 30px;
+}
+
+.last-news {
+  padding: 30px 20px;	
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+  margin-top: 30px;
+	
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.last-news-section {
+	width: 400px
+}
+
+.last-news-section:nth-child(n+2) {
+	margin-left: 50px;
+}
+
+.last-news-title {
+	font-size: 17px;
+}
+
+.last-posts {
+	margin-top: 15px;
+}
+
+.last-post:nth-child(n+2) {
+	margin-top: 20px;
+}
+
+.last-post-date {
+	display: block;
+  font-size: 12px;
+  color: #7f8992;
+	margin-bottom: 5px;
+}
+
+.last-post-title {
+	font-size: 16px;
+}
+
+.last-post-link {
+	color: #000000;
+	text-decoration: none;
+}
+
+.last-post-content{
+	font-size: 14px;
+	margin-top: 15px;
+}
+
