@@ -4,11 +4,11 @@
 
 Менеджеру блога "Нетологии" понравилась ваша предыдущая работа, и он хочет продолжать с вами сотрудничать. Ваше новое задание - стилизовать блок новостей. Сейчас он выглядит так:
 
-![](https://raw.githubusercontent.com/netology-code/html-2-homeworks/master/sources/2-1/latest-news-before.png)
+![](https://netology-code.github.io/html-2-homeworks/sources/2-1/latest-news-before.png)
 
 А надо расположить новости в три колонки. Результат должен быть таким: 
 
-![](https://raw.githubusercontent.com/netology-code/html-2-homeworks/master/sources/2-1/latest-news-after.png)
+![](https://netology-code.github.io/html-2-homeworks/sources/2-1/latest-news-after.png)
 
 ## Процесс реализации
 
@@ -20,6 +20,10 @@
 6. Для элементов `.card` установите ширину контентной области `320px`
 7. Сделайте так, чтобы блоки с услугами располагались в ряд как показано на макете
 8. Протестируйте результат в браузере
+
+Правильный результат должен иметь вид:
+ 
+ ![](https://netology-code.github.io/html-2-homeworks/sources/2-1/latest-news-after.png)
 
 ---
 

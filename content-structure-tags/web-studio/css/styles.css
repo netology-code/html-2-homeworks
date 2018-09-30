@@ -23,7 +23,7 @@ p {
 }
 
 .card {
-	background-image: url("https://stas-melnikov.ru/n-html/creative-idea.svg");
+	background-image: url("https://netology-code.github.io/html-2-homeworks/content-structure-tags/web-studio/img/creative-idea.svg");
 	background-repeat: no-repeat;
 	background-size: 96px;
 	background-position: center 30px;
@@ -34,11 +34,11 @@ p {
 }
 
 .card:nth-child(2) { 
-	background-image: url("https://stas-melnikov.ru/n-html/coding2.svg");
+	background-image: url("https://netology-code.github.io/html-2-homeworks/content-structure-tags/web-studio/img/coding2.svg");
 }
 
 .card:nth-child(3) { 
-	background-image: url("https://stas-melnikov.ru/n-html/coding.svg");
+	background-image: url("https://netology-code.github.io/html-2-homeworks/content-structure-tags/web-studio/img/coding.svg");
 }
 
 .card:nth-child(-n+3){
