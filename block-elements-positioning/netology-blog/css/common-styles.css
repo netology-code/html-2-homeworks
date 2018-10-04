@@ -25,8 +25,8 @@ body {
 	font-size: 18px;
 }
 
-.card-content {
-	margin-top: 20px;
+.card-header {
+	margin-bottom: 20px;
 }
 
 p {
