@@ -1,0 +1,38 @@
+
+body {
+	margin: 0;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 16px;
+	color: #222222;
+}
+
+p {
+	line-height: 1.5;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.courses {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.course {
+	box-shadow: 0 2px 7px 0 hsla(0, 0%, 4%, 0.05), 3px 27px 54px -34px rgba(0, 0, 0, 0.47);
+}
+
+.course-preview {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.course-img {
+	max-width: 100%;
+}
+
+.course-name {
+	margin-top: 0;
+	margin-bottom: 20px;
+	font-size: 28px;
+}

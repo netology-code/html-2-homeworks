@@ -1,0 +1,27 @@
+.courses {
+  width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+  
+  display: flex;
+  flex-direction: column;
+}
+
+.course {
+  margin-top: 70px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.course-preview {
+  box-sizing: border-box;
+  width: 300px;
+  padding: 50px;
+  background-color: #fade96;
+}
+
+.course-info {
+  box-sizing: border-box;
+  width: 660px;
+  padding: 40px 60px;
+}
