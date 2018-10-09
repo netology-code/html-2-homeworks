@@ -1,0 +1,86 @@
+/*
+демо
+*/
+body {
+  font-family: tahoma, sans-serif;
+  font-size: 16px;
+  margin: 0;
+}
+
+.page {
+  width: 400px;
+  padding: 50px;
+  border: 1px solid #cbd1d4;
+  
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page-msg {
+  display: block;
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+.form-group:nth-child(n+2) {
+  margin-top: 30px;
+}
+
+.form-actions {
+  text-align: right;
+}
+
+.field-label {
+  display: block;
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.field {
+  box-sizing: border-box;
+  display: block;
+  width: 400px;
+  border: 2px solid #dadada;
+  margin: 0;
+  
+  font-size: 13px;
+  padding: 10px 20px;
+  height: 50px;
+  background-color: #ffffff;
+}
+
+.button {
+  text-transform: uppercase;
+  font-size: 14px;
+  
+  padding: 10px 25px;
+  border: none;
+  cursor: pointer;
+}
+
+.button-clear {
+  background-color: transparent;
+  color: #0f8fee;
+  margin-right: 5px;
+}
+
+.button-submit {
+  color: #ffffff;
+  background-color: #0f8fee;
+}
+
+.field:focus, .button:focus {
+  outline: 2px solid #0f8fee;
+  outline-offset: 4px;
+}
+
+.button:hover {
+  background-color: #1ea0f9;
+}
+
+.button-clear:hover {
+  color: #ffffff
+}
+

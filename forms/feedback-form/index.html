@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="./css/styles.css">
+  <title>Форма обратной связи</title>
+</head>
+<body>
+<div class="page">
+  <span class="page-msg">Напишите нам!</span>
+  <form class="form">
+    <div class="form-group">
+      <label class="field-group">
+        <span class="field-label">Пожалуйста, представьтесь</span>
+        <input class="field" placeholder="Например, Станислав" required>
+      </label>
+    </div>
+    <div class="form-group">
+      <label class="field-group">
+        <span class="field-label">Введите свой email, чтобы мы могли ответить</span>
+        <input type="email" class="field" placeholder="Например, test@ya.ru" required>
+      </label>
+    </div>
+    <div class="form-group">
+      <label class="field-group">
+        <span class="field-label">Напишите текст вашего сообщения</span>
+        <textarea class="field textarea" placeholder="Привет.." required></textarea>
+      </label>
+    </div>
+    <div class="form-group form-actions">
+      <button class="button button-clear" type="button">Очистить</button>
+      <button class="button button-submit" type="button">Сохранить</button>
+    </div>
+  </form>
+</div>
+</body>
+</html>
