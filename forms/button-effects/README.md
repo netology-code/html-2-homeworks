@@ -6,7 +6,7 @@
 Так как вы отлично доработали форму, он снова обратился к вам.
  
 
-Сейчас при наведении курсора и при клике на нее кнопка выглядит так же, как и без наведения:
+Сейчас, при наведении курсора и при фокусеровке на ней, кнопка выглядит так же, как и без наведения:
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/3-1/button-before.jpg)
 
@@ -14,7 +14,7 @@
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/3-1/button-hover.jpg)
 
-а при клике на нее - так:
+а при фокусировке на ней - так:
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/3-1/button-click.jpg)
 
@@ -34,7 +34,7 @@
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/3-1/button-hover.jpg)
 
-при клике на кнопку:
+при фокусировке на кнопке:
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/3-1/button-click.jpg)
 
