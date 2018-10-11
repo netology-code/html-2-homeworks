@@ -30,6 +30,7 @@
 12. Установите размер иконки `20px`
 13. Сделайте так, что когда чекбокс выделен, то у него поменялась иконка на [https://netology-code.github.io/form-elements/city-select/img/checkbox-checked.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg)
 14. Скройте элемент `input` с типом `checkbox`
+15. Проверьте результат в браузере
 
 Правильный результат должны иметь вид:
 

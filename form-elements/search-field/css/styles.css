@@ -1,0 +1,20 @@
+.field {
+  box-sizing: border-box;
+  width: 485px;
+  border: 2px solid #dadada;
+  padding: 10px 25px 10px 65px;
+  margin: 0;
+  
+  display: inline-block;
+  vertical-align: middle;
+  
+  font-size: 14px;
+  height: 55px;
+  border-radius: 25px;
+  background-color: #ffffff;
+}
+
+.field:focus {
+  outline: none;
+  border-color: #9b59b6;
+}
