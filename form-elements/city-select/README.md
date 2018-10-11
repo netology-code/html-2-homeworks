@@ -6,11 +6,11 @@
 
 Сейчас блок выбора города выглядит следующим образом: 
 
-![](https://netology-code.github.io/html-2-homeworks/sources/3-2/select-before.jpg)
+![](https://netology-code.github.io/html-2-homeworks/sources/3-2/city-select-before.jpg)
 
 Ваша задача состоит в том, чтобы привести блок к виду:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/3-2/select-after.jpg)
+![](https://netology-code.github.io/html-2-homeworks/sources/3-2/city-select-after.jpg)
 
 
 ## Процесс реализации
@@ -33,7 +33,7 @@
 
 Правильный результат должны иметь вид:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/3-2/courses-after.jpg)
+![](https://netology-code.github.io/html-2-homeworks/sources/3-2/city-select-after.jpg)
 
 Не требуется вносить какие-либо другие правки в CSS или писать дополнительные правила.
 
