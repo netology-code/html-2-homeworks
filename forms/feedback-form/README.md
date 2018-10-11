@@ -7,11 +7,11 @@
 
 Сейчас эта форма не позволяет отправить сообщение, а также внешний вид отличается от макета:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/3-1/feedback-before.jpg)
+![](https://netology-code.github.io/html-2-homeworks/sources/3-1/feedback-form-before.jpg)
 
 От вас требуется исправить ошибки в работе формы и ее внешний вид:
  
- ![](https://netology-code.github.io/html-2-homeworks/sources/3-1/feedback-after.jpg)
+ ![](https://netology-code.github.io/html-2-homeworks/sources/3-1/feedback-form-after.jpg)
 
 
 
@@ -26,7 +26,7 @@
     
 Правильный результат должен иметь вид:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/3-1/feedback-after.jpg)
+![](https://netology-code.github.io/html-2-homeworks/sources/3-1/feedback-form-after.jpg)
 
 ---
 
