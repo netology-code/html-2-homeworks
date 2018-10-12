@@ -17,18 +17,18 @@
 
 
 1. Отключите стандартную стрелочку у элемента `.select`
-2. Для элемента `.select` добавьте фоновую иконку [https://netology-code.github.io/form-elements/city-select/img/select-arrows.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/select-arrows.svg)
+2. Для элемента `.select` добавьте фоновую иконку [https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/select-arrows.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/select-arrows.svg)
 3. Отключите повторение иконки
 4. Иконка должна располагаться на расстоянии `5px` от правой границы элемента, и посередине по вертикали
 5. Создайте пустой псевдоэлемент `::before` для элемента `.checkbox-text`
 6. Сделайте псевдоэлемент строчно-блочным
 7. По вертикали элемент должен располагаться по центру
 8. Сделай размер элемента `20px` на `20px`
-9. Добавьте к псевдоэлементу фоновую иконку [https://netology-code.github.io/form-elements/city-select/img/checkbox-unchecked.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-unchecked.svg)
+9. Добавьте к псевдоэлементу фоновую иконку [https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-unchecked.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-unchecked.svg)
 10. Отключите повторение иконки
 11. Расположите икону по центру по горизонтали и по вертикали
 12. Установите размер иконки `20px`
-13. Сделайте так, что когда чекбокс выделен, то у него поменялась иконка на [https://netology-code.github.io/form-elements/city-select/img/checkbox-checked.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg)
+13. Сделайте так, что когда чекбокс выделен, то у него поменялась иконка на [https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg)
 14. Скройте элемент `input` с типом `checkbox`
 15. Проверьте результат в браузере
 
