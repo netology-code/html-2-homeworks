@@ -1,0 +1,42 @@
+# Верстка шапки по PSD-макету
+
+## Описание
+
+Ваша третья задача &mdash; это верстка блока шапки сайта по [PSD-макету](https://netology-code.github.io/html-2-homeworks/popup-elements/psd-header-layout/psd/dropp.psd).
+Вы начинаете выполнять задачу, и уже написали разметку. Сейчас блок шапки выглядит так:
+
+
+![](https://netology-code.github.io/html-2-homeworks/sources/4-1/psd-header-before.jpg)
+
+И вам остается только добиться следующего вида для блока:
+
+![](https://netology-code.github.io/html-2-homeworks/sources/4-1/psd-header-after.jpg)
+
+
+## Процесс реализации
+
+1. Измерьте и задайте верхний и нижний отступ элемента `.header`
+2. Измерьте и задайте ширину элемента `.container`, который задает ширину страницы
+3. Измерьте и задайте боковые отступы элемента `.container`
+4. Измерьте и задайте ширину логотипа (элемент `.header-logo`)
+5. Измерьте и задайте верхний отступ меню (элемент `.menu`) 
+6. Измерьте и задайте ширину меню 
+7. Измерьте отступ между пунктами «Home» и «Services» и задайте  его для всех пунктов (элементы `.menu-list-item`)
+8. Проверьте результат в браузере.
+
+Правильный результат должен иметь вид:
+
+![](https://netology-code.github.io/html-2-homeworks/sources/4-1/psd-header-after.jpg)
+
+Не требуется вносить какие-либо другие правки в CSS или писать дополнительные правила.
+
+---
+
+### Реализация
+
+#### В песочнице CodePen
+
+Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/yRzQoK](https://codepen.io/Netology/pen/yRzQoK?editors=0100#0). Вносите изменения только во вкладке CSS.
+
+##### Внимание: Общую структуру документа создавать не надо, вкладка Codepen «HTML» работает, как тег `<body>`
+см. [инструкцию по работе с Codepen](https://netology-university.bitbucket.io/guides/wm/codepen-guide/)
