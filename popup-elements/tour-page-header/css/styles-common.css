@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: arial, sans-serif;
+  font-size: 18px;
+}
+
+p {
+  line-height: 32px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+.welcome {
+  min-width: 1200px;
+  min-height: 200px;
+  color: #ffffff;
+  padding-top: 150px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.container {
+  box-sizing: border-box;
+  width: 1200px;
+  padding-left: 30px;
+  padding-right: 30px;
+  
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.welcome-title {
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-size: 50px;
+}
+
+.welcome-description {
+  width: 660px;
+  margin-right: auto;
+  margin-left: auto;
+}
