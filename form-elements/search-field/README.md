@@ -20,7 +20,7 @@
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/3-2/search-stage-0.jpg)
 
-2. Добавьте фоновую иконку к поля ввода [https://netology-code.github.io/html-2-homeworks/form-elements/search-field/img/search.svg](https://netology-code.github.io/html-2-homeworks/html-2-homeworks/form-elements/search-field/img/search.svg)
+2. Добавьте фоновую иконку к поля ввода [https://netology-code.github.io/html-2-homeworks/form-elements/search-field/img/search.svg](https://netology-code.github.io/html-2-homeworks/form-elements/search-field/img/search.svg)
 3. Установите размер иконки `25px`
 4. Иконка должна располагаться на расстоянии `20px` от левого края поля по горизонтали, а по вертикали по центру.
 5. Проверьте результат в браузере
