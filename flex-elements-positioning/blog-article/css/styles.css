@@ -1,0 +1,34 @@
+
+body {
+  margin: 0;
+  font-family: arial, sans-serif;
+}
+
+.content {
+  width: 760px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+p {
+  line-height: 24px;
+}
+
+.page h1 {
+  font-size: 12px;
+}
+
+.page a {
+  text-decoration: underline;
+  color: #f00000;
+}
+
