@@ -1,0 +1,36 @@
+
+body {
+  margin: 0;
+  font-family: arial, sans-serif;
+  font-size: 16px;
+}
+
+p {
+  line-height: 1.675;
+  margin-top: 25px;
+}
+
+.menu-list {
+  list-style: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+.menu-list-item {
+  line-height: 1.765;
+}
+
+.menu-list-item:nth-child(n+2) {
+  margin-top: 15px;
+}
+
+.menu-link {
+  color: #222222;
+  text-decoration: none;
+}
+
+.menu-link:not([href]) {
+  font-weight: 700;
+}
+
