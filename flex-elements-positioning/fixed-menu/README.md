@@ -32,7 +32,7 @@
 
 #### В песочнице CodePen
 
-Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/gBzrEv](https://codepen.io/Netology/pen/gBzrEv?editors=0100#0). Вносите изменения только во вкладке CSS.
+Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/gBzrEv](https://codepen.io/Netology/pen/gBzrEv?editors=0100#0){:target="_blank"}. Вносите изменения только во вкладке CSS.
 
 ##### Внимание: Общую структуру документа создавать не надо, вкладка Codepen «HTML» работает, как тег `<body>`
 см. [инструкцию по работе с Codepen](https://netology-university.bitbucket.io/guides/wm/codepen-guide/)
