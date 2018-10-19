@@ -10,7 +10,7 @@
 
 Вам нужно **отредактировать стили** так, чтобы верстка выглядела следующим образом:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/4-2/blog-article-before.jpg)
+![](https://netology-code.github.io/html-2-homeworks/sources/4-2/blog-article-after.jpg)
 
 ## Процесс реализации
 

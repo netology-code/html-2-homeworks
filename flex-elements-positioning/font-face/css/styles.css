@@ -1,0 +1,14 @@
+
+body {
+  margin: 0;
+  background-color: #69128d;
+  font-family: tahoma;
+}
+
+.container {
+  width: 880px;
+  padding-top: 195px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
