@@ -15,7 +15,7 @@
 
 ## Процесс реализации
 
-1. Скачайте исходные файлы задания: [архив с исходными файлами задания](https://netology-code.github.io/html-2-homeworks/flex-elements-positioning/font-face/materials/task-4-2.zip)
+1. Скачайте [архив с исходными файлами задания](https://netology-code.github.io/html-2-homeworks/flex-elements-positioning/font-face/materials/task-4-2.zip)
 2. Установите шрифт `Lobster-Regular.ttf` в вашу операционную систему
 3. Измерьте в макете и установите размер текста для элемента `.container`
 4. Измерьте в макете и установите цвет текста для элемента `.container`
