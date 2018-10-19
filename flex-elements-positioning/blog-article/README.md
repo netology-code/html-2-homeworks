@@ -35,7 +35,7 @@
  
  Правильный результат должен иметь вид:
  
- ![](https://netology-code.github.io/html-2-homeworks/sources/4-2/blog-article-before.jpg)
+ ![](https://netology-code.github.io/html-2-homeworks/sources/4-2/blog-article-after.jpg)
 
 
 **Вы не можете никак изменять HTML и создавать новые CSS-правила или редактировать существующие свойства в правилах. Вы можете только редактировать селекторы CSS-правил и менять порядок CSS-правил.**
