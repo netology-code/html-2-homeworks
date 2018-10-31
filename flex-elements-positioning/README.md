@@ -8,4 +8,4 @@
 
 Все задачи обязательны к выполнению. Присылать на проверку можно только когда готовы все три задачи.
 
-Работы должны соответствовать принятому [стилю оформления кода](https://github.com/netology-code/codestyle/tree/master/css).
+Работы должны соответствовать принятому стилю кода для [HTML](https://github.com/netology-code/codestyle/tree/master/html) и [CSS](https://github.com/netology-code/codestyle/tree/master/css).
