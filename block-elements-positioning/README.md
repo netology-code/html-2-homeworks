@@ -2,9 +2,9 @@
 
 Необходимо выполнить и отправить на проверку следующие задачи:
 
-1. [Раздел «Наши эксперты»](https://github.com/netology-code/html-2-homeworks/tree/master/block-elements-positioning/our-experts-section)
-2. [Курсы Нетологии](https://github.com/netology-code/html-2-homeworks/tree/master/block-elements-positioning/netology-courses)
-3. [Блог Нетологии](https://github.com/netology-code/html-2-homeworks/tree/master/block-elements-positioning/netology-blog)
+1. [Раздел «Наши эксперты»](./our-experts-section)
+2. [Курсы Нетологии](./netology-courses)
+3. [Блог Нетологии](./netology-blog)
 
 Все задачи обязательны к выполнению. Присылать на проверку можно только когда готовы все три задачи.
 
