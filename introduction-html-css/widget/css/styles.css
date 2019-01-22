@@ -21,4 +21,5 @@ body {
 .card-img {
   border: 1px solid #ddd;
   width: 180px;
+  flex: none;
 }
