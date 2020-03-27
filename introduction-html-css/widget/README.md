@@ -27,6 +27,7 @@
 13. В `.card-name` объявите свойство `margin-top` со значением `0`.
 14. Добавьте в `.card-name` еще одно свойство `font-size` со значением `24px`.
 15. убедитесь, что результат соответствует описанию. Для этого перейдите в режим FullPage ([скриншот](/sources/screen.md)).
+
 Правильный результат должен иметь вид:
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/lection-1-1-task-3-widget-after.png)
