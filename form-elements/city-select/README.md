@@ -38,7 +38,7 @@
 12. Установите размер иконки `20px` для псевдоэлемента `::before`.
 13. Сделайте так, что когда чекбокс выделен, то у него поменялась иконка на [https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg).
 14. Скройте элемент `input` с типом `checkbox`.
-15. Проверьте результат в браузере.
+15. Убедитесь, что результат соответствует описанию. Для этого перейдите в режим FullPage ([скриншот](/sources/screen.md)). Если режим FullPage View выдал ошибку - вам нужно подтвердить свою учетную запись в codepen, пройдя по ссылке из письма, пришедшего от codepen, тогда все должно начать работать корректно.
 
 Правильный результат на компьютере с операционной системой Microsoft Windows должен иметь вид:
 

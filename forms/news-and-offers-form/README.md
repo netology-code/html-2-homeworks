@@ -17,6 +17,7 @@
 ![](https://netology-code.github.io/html-2-homeworks/sources/3-1/news-and-offers-stage-0.jpg)
 
 4. Сделайте так, чтобы браузер проверил корректность введенного email при отправке формы.
+5. Убедитесь, что результат соответствует описанию. Для этого перейдите в режим FullPage ([скриншот](/sources/screen.md)). Если режим FullPage View выдал ошибку - вам нужно подтвердить свою учетную запись в codepen, пройдя по ссылке из письма, пришедшего от codepen, тогда все должно начать работать корректно.
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/3-1/news-and-offers-stage-1.jpg)
 
