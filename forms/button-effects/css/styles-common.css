@@ -10,3 +10,8 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+button::-moz-focus-inner,
+input[type="button"]::-moz-focus-inner {
+  border: none;
+}
