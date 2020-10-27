@@ -32,11 +32,11 @@
 6. Сделайте псевдоэлемент `::before` строчно-блочным.
 7. Расположите псевдоэлемент `::before` по центру по вертикали.
 8. Сделайте размер псевдоэлемента `::before` `20px` на `20px`.
-9. Добавьте к псевдоэлементу `::before` фоновую иконку [https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-unchecked.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-unchecked.svg).
+9. Добавьте к псевдоэлементу `::before` фоновую иконку [https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-unchecked.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-unchecked.svg)
 10. Отключите повторение иконки для псевдоэлемента `::before`.
 11. Расположите иконку по центру по горизонтали и по вертикали для псевдоэлемента `::before`.
 12. Установите размер иконки `20px` для псевдоэлемента `::before`.
-13. Сделайте так, что когда чекбокс выделен, то у него поменялась иконка на [https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg).
+13. Сделайте так, что когда чекбокс выделен, то у него поменялась иконка на [https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg)
 14. Скройте элемент `input` с типом `checkbox`.
 15. Убедитесь, что результат соответствует описанию. Для этого перейдите в режим FullPage ([скриншот](/sources/screen.md)). Если режим FullPage View выдал ошибку - вам нужно подтвердить свою учетную запись в codepen, пройдя по ссылке из письма, пришедшего от codepen, тогда все должно начать работать корректно.
 
