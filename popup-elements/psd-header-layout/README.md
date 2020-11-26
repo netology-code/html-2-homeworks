@@ -7,7 +7,7 @@
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/4-1/psd-header-before.jpg)
 
-Ввам остается только добиться следующего вида для блока:
+Вам остается только добиться следующего вида для блока:
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/4-1/psd-header-after.jpg)
 
