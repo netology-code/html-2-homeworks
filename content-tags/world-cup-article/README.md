@@ -8,7 +8,7 @@
 
 Итоговая верстка должна соответствовать макету и выглядеть следующим образом:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/1-2/championship-result.jpg)
+![](https://netology-code.github.io/html-2-homeworks/sources/1-2/championship-result-2.jpg)
 
 ## Процесс реализации
 
