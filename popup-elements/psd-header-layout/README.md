@@ -1,5 +1,16 @@
 # Верстка шапки по PSD-макету
 
+### Реализация
+
+#### В песочнице CodePen
+
+Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/yRzQoK](https://codepen.io/Netology/pen/yRzQoK?editors=0100#0). Вносите изменения только во вкладке CSS.
+
+##### Внимание: Общую структуру документа создавать не надо, вкладка Codepen «HTML» работает, как тег `<body>`
+см. [инструкцию по работе с Codepen](https://github.com/netology-code/guides/tree/master/codepen).
+
+---
+
 ## Описание
 
 Ваша третья задача &mdash; это верстка блока шапки сайта по [PSD-макету](https://netology-code.github.io/html-2-homeworks/popup-elements/psd-header-layout/psd/dropp.psd).
@@ -24,13 +35,3 @@
 
 Не требуется вносить какие-либо другие правки в CSS или писать дополнительные правила, кроме тех, что предусмотрены заданием.
 
----
-
-### Реализация
-
-#### В песочнице CodePen
-
-Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/yRzQoK](https://codepen.io/Netology/pen/yRzQoK?editors=0100#0). Вносите изменения только во вкладке CSS.
-
-##### Внимание: Общую структуру документа создавать не надо, вкладка Codepen «HTML» работает, как тег `<body>`
-см. [инструкцию по работе с Codepen](https://github.com/netology-code/guides/tree/master/codepen).
