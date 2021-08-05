@@ -1,5 +1,16 @@
 # Форма подписки на новости и скидки
 
+### Реализация
+
+#### В песочнице CodePen
+
+Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/PyWbOQ](https://codepen.io/Netology/pen/PyWbOQ?editors=1000#0). Вносите изменения только во вкладке HTML.
+
+##### Внимание: Общую структуру документа создавать не надо, вкладка Codepen «HTML» работает, как тег `<body>`
+см. [инструкцию по работе с Codepen](https://github.com/netology-code/guides/tree/master/codepen).
+
+---
+
 ## Описание
 
 Ваш сосед открыл магазин пельменей и заказал себе сайт. Но когда сайт был запущен, он обнаружил, что почему-то никто не подписывается на новости и скидки, и очень огорчился.
@@ -21,13 +32,3 @@
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/3-1/news-and-offers-stage-1.jpg)
 
----
-
-### Реализация
-
-#### В песочнице CodePen
-
-Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/PyWbOQ](https://codepen.io/Netology/pen/PyWbOQ?editors=1000#0). Вносите изменения только во вкладке HTML.
-
-##### Внимание: Общую структуру документа создавать не надо, вкладка Codepen «HTML» работает, как тег `<body>`
-см. [инструкцию по работе с Codepen](https://github.com/netology-code/guides/tree/master/codepen).
