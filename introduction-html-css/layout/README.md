@@ -2,9 +2,7 @@
 
 ### Реализация
 
-#### В песочнице CodePen
-
-Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/aaYoKM](https://codepen.io/Netology/pen/aaYoKM?editors=1100#0). Внесите изменения во вкладке HTML пена. CSS менять не надо.
+**В песочнице CodePen.** Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/aaYoKM](https://codepen.io/Netology/pen/aaYoKM?editors=1100#0). Внесите изменения во вкладке HTML пена. CSS менять не надо.
 
 **Важно.** Общую структуру документа создавать не надо. Вкладка «HTML» в Codepen работает, как тег `<body>`.
 Изучи [инструкцию по работе с CodePen](https://github.com/netology-code/guides/tree/master/codepen).
