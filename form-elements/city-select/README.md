@@ -47,8 +47,8 @@
 10. Отключите повторение иконки для псевдоэлемента `::before`.
 11. Расположите иконку по центру по горизонтали и по вертикали для псевдоэлемента `::before`.
 12. Установите размер иконки `20px` для псевдоэлемента `::before`.
-13. Сделайте так, что когда чекбокс выделен, то у него поменялась иконка на [https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg)
-14. Скройте элемент `input` с типом `checkbox`.
+13. Сделайте так, что когда [чекбокс выделен](https://developer.mozilla.org/ru/docs/Web/CSS/:checked), то у него поменялась иконка на [https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg)
+14. Скройте элемент `input` с типом `checkbox` таким образом, чтобы можно было попасть в focus input при помощи tab.
 15. Убедитесь, что результат соответствует описанию. Для этого перейдите в режим FullPage ([скриншот](/sources/screen.md)). Если режим FullPage View выдал ошибку - вам нужно подтвердить свою учетную запись в codepen, пройдя по ссылке из письма, пришедшего от codepen, тогда все должно начать работать корректно.
 
 Не требуется вносить какие-либо другие правки в CSS или писать дополнительные правила, кроме тех, что предусмотрены заданием.
