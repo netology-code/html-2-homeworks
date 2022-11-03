@@ -23,7 +23,7 @@
 ## Процесс реализации
 
 1. После первого абзаца добавьте элемент `figure`.
-2. Внутри элемента `figure` добавьте изображение. В качестве источника изображения используйте [изображение](`https://netology-code.github.io/html-2-homeworks/content-tags/montreal-illustration/img/220px-St.JamesSt.-Montreal_-1910.jpg`).
+2. Внутри элемента `figure` добавьте изображение. В качестве источника изображения используйте [изображение](https://netology-code.github.io/html-2-homeworks/content-tags/montreal-illustration/img/220px-St.JamesSt.-Montreal_-1910.jpg).
 
 3. Для изображения добавьте альтернативный текст «Монреаль начала XX века».
 4. Создайте подпись к элементу `figure` с текстом «Улица Сен-Жак в 1910 году».
