@@ -2,18 +2,16 @@
 
 ### Реализация
 
-#### В песочнице CodePen
+**В песочнице CodePen.** Перед началом работы сделайте форк пена на [странице](https://codepen.io/Netology/pen/gBRbZV?editors=0100#0). Вносите изменения только во вкладке CSS.
 
-Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/gBRbZV](https://codepen.io/Netology/pen/gBRbZV?editors=0100#0). Вносите изменения только во вкладке CSS.
-
-##### Внимание: Общую структуру документа создавать не надо, вкладка Codepen «HTML» работает, как тег `<body>`
-см. [инструкцию по работе с Codepen](https://github.com/netology-code/guides/tree/master/codepen).
+**Важно.** Общую структуру документа создавать не надо, вкладка CodePen «HTML» работает, как тег `<body>`.
+Изучите [инструкцию по работе с CodePen](https://github.com/netology-code/guides/tree/master/codepen).
 
 ---
 
 ## Описание
 
-Помимо страницы «Направления Нетологии» дизайнер Вася создал для сайта Нетологии новый блок выбора города. Но Вася не знает, как сделать так, чтобы селект выглядел точно так же, как в его макете. Придется вам снова ему помочь!
+Кроме страницы «Направления Нетологии» дизайнер Вася создал для сайта Нетологии новый блок выбора города. Но он не знает, как сделать так, чтобы селект выглядел точно так же, как в его макете. Придётся вам снова ему помочь.
 
 Исходный внешний вид блока и вид конечного результата будут незначительно отличаться в зависимости от операционной системы, под управлением которой работает ваш компьютер.
 
@@ -21,7 +19,7 @@
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/3-2/city-select-win-before.jpg)
 
-а на компьютере с операционной системой MacOS &mdash; так:
+На компьютере с операционной системой macOS &mdash; так:
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/3-2/city-select-before.jpg)
 
@@ -29,26 +27,26 @@
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/3-2/city-select-win-after.jpg)
 
-А если вы работаете на компьютере с операционной системой MacOS &mdash; то к виду:
+А если работаете на компьютере с операционной системой macOS &mdash; то к виду:
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/3-2/city-select-after.jpg)
 
 ## Процесс реализации
 
 1. Отключите стандартную стрелочку у элемента с классом `select`.
-2. Добавьте фоновую иконку [https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/select-arrows.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/select-arrows.svg) для элемента с классом `select`.  
+2. Добавьте [фоновую иконку](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/select-arrows.svg) для элемента с классом `select`.  
 3. Отключите повторение иконки.
 4. Расположите иконку на расстоянии `5px` от правой границы элемента и посередине по вертикали.
 5. Создайте пустой псевдоэлемент `::before` для элемента с классом `checkbox-text`.
 6. Сделайте псевдоэлемент `::before` строчно-блочным.
 7. Расположите псевдоэлемент `::before` по центру по вертикали.
 8. Сделайте размер псевдоэлемента `::before` `20px` на `20px`.
-9. Добавьте к псевдоэлементу `::before` фоновую иконку [https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-unchecked.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-unchecked.svg)
+9. Добавьте к псевдоэлементу `::before` [фоновую иконку](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-unchecked.svg).
 10. Отключите повторение иконки для псевдоэлемента `::before`.
 11. Расположите иконку по центру по горизонтали и по вертикали для псевдоэлемента `::before`.
 12. Установите размер иконки `20px` для псевдоэлемента `::before`.
-13. Сделайте так, что когда [чекбокс выделен](https://developer.mozilla.org/ru/docs/Web/CSS/:checked), то у него поменялась иконка на [https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg)
-14. Скройте элемент `input` с типом `checkbox` таким образом, чтобы можно было попасть в focus input при помощи tab.
-15. Убедитесь, что результат соответствует описанию. Для этого перейдите в режим FullPage ([скриншот](/sources/screen.md)). Если режим FullPage View выдал ошибку - вам нужно подтвердить свою учетную запись в codepen, пройдя по ссылке из письма, пришедшего от codepen, тогда все должно начать работать корректно.
+13. Сделайте так, чтобы когда [чекбокс выделен](https://developer.mozilla.org/ru/docs/Web/CSS/:checked), у него поменялась иконка на [этот вариант](https://netology-code.github.io/html-2-homeworks/form-elements/city-select/img/checkbox-checked.svg)
+14. Скройте элемент `input` с типом `checkbox` так, чтобы можно было попасть в focus input при помощи tab.
+15. Убедитесь, что результат соответствует описанию. Для этого перейдите в режим FullPage ([скриншот](/sources/screen.md)). Если режим FullPage View выдал ошибку, вам нужно подтвердить свою учётную запись в CodePen, пройдя по ссылке из письма от CodePen, тогда всё должно заработать корректно.
 
-Не требуется вносить какие-либо другие правки в CSS или писать дополнительные правила, кроме тех, что предусмотрены заданием.
+Не нужно вносить другие правки в CSS или писать дополнительные правила, кроме тех, что предусмотрены заданием.
