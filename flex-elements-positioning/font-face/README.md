@@ -1,25 +1,23 @@
-# Верстка текста по PSD-макету
+# Вёрстка текста по PSD-макету
 
 ### Реализация
 
-#### В песочнице CodePen
+**В песочнице CodePen.** Перед началом работы сделайте форк пена на [странице](https://codepen.io/Netology/pen/MPGeOK?editors=0100#0). Вносите изменения только во вкладке CSS.
 
-Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/MPGeOK](https://codepen.io/Netology/pen/MPGeOK?editors=0100#0). Вносите изменения только во вкладке CSS.
-
-##### Внимание: Общую структуру документа создавать не надо, вкладка Codepen «HTML» работает, как тег `<body>`
-см. [инструкцию по работе с Codepen](https://github.com/netology-code/guides/tree/master/codepen).
+**Важно.** Общую структуру документа создавать не надо, вкладка CodePen «HTML» работает, как тег `<body>`.
+Изучите [инструкцию по работе с CodePen](https://github.com/netology-code/guides/tree/master/codepen).
 
 ---
 
 ## Описание
 
-Теперь вам нужно доработать верстку в соответствии с PSD-макетом.
+Вам нужно доработать вёрстку в соответствии с PSD-макетом.
 
-Сейчас страница со статьей выглядит так:
+Страница со статьёй:
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/4-2/font-face-before.jpg)
 
-Вам нужно стилизовать надпись, чтобы верстка выглядела следующим образом:
+Нужно стилизовать надпись, чтобы вёрстка выглядела так:
 
 ![](https://netology-code.github.io/html-2-homeworks/sources/4-2/font-face-after.jpg)
 
@@ -32,7 +30,7 @@
 5. Измерьте в макете и установите междустрочное расстояние для элемента `p`.
 6. Подключите шрифт `lobster`, используя директиву `font-face`. В качестве пути (`src`) используйте [https://netology-code.github.io/html-2-homeworks/flex-elements-positioning/font-face/fonts/lobster-regular.woff](https://netology-code.github.io/html-2-homeworks/flex-elements-positioning/font-face/fonts/lobster-regular.woff), в настройках укажите `font-family: lobster`, `font-weight: 400` и `font-style: normal`.
 7. Установите `font-family: lobster` для элемента с классом `container`.
-8. Убедитесь, что результат соответствует описанию. Для этого перейдите в режим FullPage ([скриншот](/sources/screen.md)). Если режим FullPage View выдал ошибку - вам нужно подтвердить свою учетную запись в codepen, пройдя по ссылке из письма, пришедшего от codepen, тогда все должно начать работать корректно.
+8. Убедитесь, что результат соответствует описанию. Для этого перейдите в режим FullPage ([скриншот](/sources/screen.md)). Если режим FullPage View выдал ошибку, вам нужно подтвердить свою учётную запись в CodePen, пройдя по ссылке из письма от CodePen, тогда всё должно заработать корректно.
 
 
-Не требуется вносить какие-либо другие правки в CSS или писать дополнительные правила, кроме тех, что предусмотрены заданием.
+Не нужно вносить другие правки в CSS или писать дополнительные правила, кроме тех, что предусмотрены заданием.
