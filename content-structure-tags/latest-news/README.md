@@ -17,11 +17,11 @@
 
 Менеджеру блога Нетологии понравилась ваша предыдущая работа, и он хочет продолжать с вами сотрудничать. Ваше новое задание &mdash; стилизовать блок новостей. Сейчас он выглядит так:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/2-1/latest-news-before.png)
+![](https://github.com/netology-code/html-2-homeworks/blob/master/sources/2-1/latest-news-before.png)
 
 Нужно расположить новости в три колонки. Результат должен быть, как на скришноте:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/2-1/latest-news-after.png)
+![](https://github.com/netology-code/html-2-homeworks/blob/master/sources/2-1/latest-news-after.png)
 
 ## Процесс реализации
 
