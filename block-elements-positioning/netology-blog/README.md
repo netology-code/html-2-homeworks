@@ -1,4 +1,4 @@
-# Блог Нетологии
+ # Блог Нетологии
 
 ### Реализация
 
@@ -17,11 +17,11 @@
 
 Сейчас страница блога выглядит так:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/2-2/blog-before.jpg)
+![](https://github.com/netology-code/html-2-homeworks/blob/master/sources/2-2/blog-before.jpeg)
 
 Вам нужно привести блок к исходному виду:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/2-2/blog-after.jpg)
+![](https://github.com/netology-code/html-2-homeworks/blob/master/sources/2-2/blog-after.jpeg)
 
 ## Процесс реализации
 
@@ -29,7 +29,7 @@
 
 Внешний вид вёрстки должен измениться следующим образом:
 
-![](https://netology-code.github.io/html-2-homeworks/sources/2-2/blog-stage0.jpg)
+![](https://github.com/netology-code/html-2-homeworks/blob/master/sources/2-2/blog-stage0.jpeg)
 
 2. Сделайте так, чтобы карточки располагались по три в ряд, как показано в макете.
 3. Установите отступ сверху `30px` для элементов с классом `card`, начиная с четвёртого элемента. **Создавать новые классы не нужно.**
