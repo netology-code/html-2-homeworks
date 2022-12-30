@@ -28,7 +28,7 @@
 3. Измерьте в макете и установите размер текста для элемента с классом `container`.
 4. Измерьте в макете и установите цвет текста для элемента с классом `container`.
 5. Измерьте в макете и установите междустрочное расстояние для элемента `p`.
-6. Подключите шрифт `lobster`, используя директиву `font-face`. В качестве пути (`src`) используйте [файл](https://netology-code.github.io/html-2-homeworks/flex-elements-positioning/font-face/fonts/lobster-regular.woff), в настройках укажите `font-family: lobster`, `font-weight: 400` и `font-style: normal`.
+6. Подключите шрифт `lobster`, используя директиву `font-face`. В качестве пути (`src`) используйте [ссылку на файл](https://netology-code.github.io/html-2-homeworks/flex-elements-positioning/font-face/fonts/lobster-regular.woff), в настройках укажите `font-family: lobster`, `font-weight: 400` и `font-style: normal`.
 7. Установите `font-family: lobster` для элемента с классом `container`.
 8. Убедитесь, что результат соответствует описанию. Для этого перейдите в режим FullPage ([скриншот](/sources/screen.md)). Если режим FullPage View выдал ошибку, вам нужно подтвердить свою учётную запись в CodePen, пройдя по ссылке из письма от CodePen, тогда всё должно заработать корректно.
 
