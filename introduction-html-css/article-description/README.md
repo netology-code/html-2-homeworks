@@ -4,6 +4,8 @@
 
 **В песочнице CodePen.** Перед началом работы сделайте форк пена на [странице](https://codepen.io/Netology/pen/dqmbQP?editors=1100#0). Внесите изменения во вкладке CSS пена.
 
+Редактор CodePen больше недоступен в РФ. Если вы не можете сделать задание в нём, то предлагаем вам альтернативное решение - JS Bin. Создайте аккаунт, перенесите стили из репозитория GitHub и выполняйте задания в JS Bin. [Подробная инструкция](https://github.com/netology-code/guides/tree/master/jsbin)
+
 **Важно.** Общую структуру документа создавать не надо, вкладка CodePen «HTML» работает, как тег `<body>`.
 Изучите [инструкцию по работе с CodePen](https://github.com/netology-code/guides/tree/master/codepen).
 
