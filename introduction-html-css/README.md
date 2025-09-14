@@ -9,14 +9,14 @@
 
 ### Работа в CodePen
 1. Перейдите по ссылке на [Codepen](https://codepen.io/Netology/pen/KwdjGoy).
-2. Нажмите кнопку **Fork**.
+2. Нажмите кнопку **Fork**, чтобы скопировать html, заготовленные стили уже подключены.
 3. Выполните домашнее задание.
 4. Нажмите кнопку **Save**.
 
 ### Работа в JSBin
 1. Создайте новый bin в своем аккаунте.
 2. Скопируйте исходную разметку в HTML-вкладку.
-3. Подключите заготовленные стили через тег link - ссылка
+3. Подключите заготовленные стили через тег link - [https://netology-code.github.io/html-2-homeworks/introduction-html-css/css/style-common.css](https://netology-code.github.io/html-2-homeworks/introduction-html-css/css/style-common.css)
 4. Выполните задание.
 5. Нажмите **Save snapshot**.
 
