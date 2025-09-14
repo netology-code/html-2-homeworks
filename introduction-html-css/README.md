@@ -81,5 +81,3 @@
 3. Выполнены все пункты задания
 4. Отсутствует лишний css (вне рамок пунктов задания) или html
 
-
-https://netology-code.github.io/html-2-homeworks/introduction-html-css/css/style-common.css
