@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+}
+
+.content-wrp {
+  display: flex;
+  width: 800px;
+  margin: 0 auto;
+  padding: 40px 0;
+  justify-content: space-between;
+}
+
+.content {
+  width: 600px;
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.text {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.autor-wrp {
+  width: 160px;
+  text-align: center;
+}
+
+.author {
+  width: 100%;
+}
+
+.text-green-bkg {
+  margin-top: 0;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.link {
+  border-bottom: 0 solid #5b5a5a;
+}
