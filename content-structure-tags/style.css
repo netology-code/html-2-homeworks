@@ -1,1 +1,48 @@
+/* База: без ширин, без позиционирования, без сеток */
+html, body { height: 100%; }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", Arial, sans-serif;
+  color: #1f2430;
+  line-height: 1.55;
+  background: #ffffff;
+}
 
+.page { padding: 16px; }
+
+.about__title,
+.services__title,
+.news__title {
+  font-weight: 700;
+  font-size: 24px;
+  margin: 0 0 12px;
+}
+
+/* Описание */
+.about__text { margin: 0 0 24px; }
+
+/* Карточки услуг — простая «сухая» подложка */
+.service-item,
+.news-item {
+  background: #f4f6ff;
+  border: 1px solid #e6e6ee;
+  border-radius: 6px;
+  padding: 16px;
+  margin: 0 0 12px; 
+}
+
+/* Тексты карточек */
+.service-item__title,
+.news-item__title {
+  font-weight: 700;
+  margin: 0 0 8px;
+  font-size: 18px;
+}
+
+.service-item__text,
+.news-item__text { margin: 0; }
+
+.news-item__date {
+  color: #5b6b92;
+  font-size: 14px;
+}
