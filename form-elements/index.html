@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Нестандартные элементы форм">
+  <title>Нестандартные элементы форм</title>
+</head>
+
+<body>
+  <div class="wrp">
+
+    <div class="title-search-wrp">
+      <h1 class="text">Курсы Нетологии</h1>
+      <!-- Форма поиска -->
+      <form class="search-form">
+        найдите подходящий курс
+        <label class="search-label"></label>
+        <input>
+        <button>find</button>
+      </form>
+    </div>
+
+    <ul class="tag-list">
+      <li class="tag-item"><a href="#">Все курсы</a></li>
+      <li class="tag-item"><a href="#">Программирование</a></li>
+      <li class="tag-item"><a href="#">Маркетинг</a></li>
+      <li class="tag-item"><a href="#">Дизайн</a></li>
+      <li class="tag-item"><a href="#">Аналитика</a></li>
+      <li class="tag-item"><a href="#">Бизнес и управление</a></li>
+    </ul>
+
+    <div class="courses-wrp">
+      <form class="form-filter">
+        <fieldset>
+          <legend>Стоимость</legend>
+          <!-- Чекбоксы -->
+          <div class="form-filter-row">
+            <input class="form-filter-field visually-hidden" type="checkbox" id="free">
+            <label class="form-filter-label" for="free">бесплатные</label>
+          </div>
+          <div class="form-filter-row">
+            <input class="form-filter-field visually-hidden" type="checkbox" id="pay">
+            <label class="form-filter-label" for="pay">платные</label>
+          </div>
+
+        </fieldset>
+        <!-- Кнопка фильтрации -->
+        <button class="form-filter-button">отфильтровать</button>
+      </form>
+      <ul>
+        <li>
+          <article class="course">
+            <img class="course-img"
+              src="https://u.netology.ru/backend/uploads/legacy/program_families/image/2067/vitrina__programm-graphic_designer_.png"
+              alt="курс">
+            <h2>Графический дизайнер: расширенный курс</h2>
+          </article>
+          <article class="course">
+            <img class="course-img"
+              src="https://u.netology.ru/backend/uploads/legacy/program_families/image/2067/vitrina__programm-graphic_designer_.png"
+              alt="курс">
+            <h2>1C-программист: расширенный курс</h2>
+          </article>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+</body>
+
+</html>
